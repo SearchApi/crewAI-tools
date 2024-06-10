@@ -9,6 +9,7 @@ from .tools import (
  	EXASearchTool,
 	FileReadTool,
 	GithubSearchTool,
+  SearchApiTool,
 	SerperDevTool,
 	TXTSearchTool,
 	JSONSearchTool,
