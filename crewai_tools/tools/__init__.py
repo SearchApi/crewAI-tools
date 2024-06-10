@@ -7,6 +7,7 @@ from .docx_search_tool.docx_search_tool import DOCXSearchTool
 from .exa_tools.exa_search_tool import EXASearchTool
 from .file_read_tool.file_read_tool import FileReadTool
 from .github_search_tool.github_search_tool import GithubSearchTool
+from .searchapi_tool.searchapi_tool import SearchApiTool
 from .serper_dev_tool.serper_dev_tool import SerperDevTool
 from .txt_search_tool.txt_search_tool import TXTSearchTool
 from .json_search_tool.json_search_tool import JSONSearchTool
